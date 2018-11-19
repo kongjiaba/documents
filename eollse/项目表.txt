@@ -1,0 +1,94 @@
+shoppong项目表
+
+goods商品表
+goodsclass商品分类表
+goodscart商品属性表
+group 团购名称表
+orderform订单表
+order_log订单日志表
+payment支付方式表
+shipping运费表
+store商户表
+storecart购物车表
+syscofig系统配置表
+transport快递模板
+user用户表
+user_role角色表
+user_friend好友表
+accessory图片表
+activity活动表
+activity_goods参加活动商品表
+address地址表
+advert广告表
+album相册表
+article消息表
+bargain特价表
+coupon优惠券表
+evaluate评价表
+exprerss_company快递公司表
+favorit收藏表
+goodsspecification商品颜色尺码表
+goodsspecproperty商品颜色尺码表
+intergral_goods积分商品表
+messsage管理员通知表
+
+
+
+网格信息化管理系统，数据库，表——表名称：
+1、	account  户口
+2、	area	地区	
+3、	area_code		地区
+4、	attendance	网格员打卡的地点
+5、	block	楼栋
+6、	blog	日志
+7、	company	公司
+8、	company_nature	公司性质
+9、	company_scale	公司规模
+10、	company_trade	公司经营范围
+11、	court		小区
+12、	culture_level	文化层次
+13、	event	事件
+14、	event_level	事件级别
+15、	event_log	事件日志
+16、	event_solve_status	事件处理结果
+17、	event_source_type	事件来源方式
+18、	event_type	事件的类别
+19、	facilities	公共设施
+20、	facilities_type	公共设施类别
+21、	flow	流动人口
+22、	flow_type	流动人口的类型，（流入or流出）
+23、	grid		网格
+24、	grid_post	网格人员的职位
+25、	grid_staff	网格员
+26、	holder_relation	与户主的关系
+27、	house		房屋
+28、	house_status		房屋的使用状态（自用，出租，空置等）
+29、	house_type	房屋的户型
+30、	icon	图标
+31、	info	信息
+32、	info_type	信息类型（包含：辖区介绍，组织架构）
+33、	leaves	请假
+34、	leaves_type	请假的类型（婚假，事假，产假等等）
+35、	log		系统登录日志
+36、	marriage_status	婚姻状况
+37、	menu		菜单
+38、	menu_per		菜单的关联表
+39、	permission		根据权限，获取的操作功能（包含：添加，编辑，删除，查看，审核）
+40、	politics		政治面貌
+41、	pop_attr		人口与属性的关联表
+42、	pop_nation	民族
+43、	popattr	人物属性（团员，党员，无党人士，退伍军人等等）
+44、	population		人口主表
+45、	road		道路
+46、	road_grade	道路级别（主干道，次干道等）
+47、	role	角色权限
+48、	role_per		角色的关联关系表
+49、	store		商店
+50、	unit		楼栋的单元表
+51、	user		用户主表
+52、	user_staff	用户和网格员的关联关系表
+53、	party_member	党员信息表
+54、	key_people	服务对象
+55、	sys_dict	数据字典
+56、	w_interview	走访情况
+

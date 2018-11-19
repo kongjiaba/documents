@@ -1,0 +1,14 @@
+2018-11-15
+安装jdk
+打开Telnet
+安装MySQL
+安装navicat
+安装eclipse
+配置Tomcat
+安装SVN
+import grid project
+
+svn：wj
+	wj123
+
+2018-11-16
