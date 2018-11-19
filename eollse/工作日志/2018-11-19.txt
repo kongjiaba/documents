@@ -1,9 +1,9 @@
-²ÎÓë²úÆ·¸Ä°æ¿ª·¢Æô¶¯½»Á÷
+å‚ä¸äº§å“æ”¹ç‰ˆå¼€å‘å¯åŠ¨äº¤æµ
 
-mysql:floor:È¡ÕûÊı
-	rand()£ºËæ»úÊı
+mysql:floor:å–æ•´æ•°
+	rand()ï¼šéšæœºæ•°
 
-ÆóÒµÓÊÏä£ºwangj@eollse.cn
+ä¼ä¸šé‚®ç®±ï¼šwangj@eollse.cn
 	Wj2603671229
 
-°²×°VisualSVN Server
+å®‰è£…VisualSVN Server

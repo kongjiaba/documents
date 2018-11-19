@@ -1,94 +1,93 @@
-shoppongÏîÄ¿±í
+shoppongé¡¹ç›®è¡¨
 
-goodsÉÌÆ·±í
-goodsclassÉÌÆ··ÖÀà±í
-goodscartÉÌÆ·ÊôĞÔ±í
-group ÍÅ¹ºÃû³Æ±í
-orderform¶©µ¥±í
-order_log¶©µ¥ÈÕÖ¾±í
-paymentÖ§¸¶·½Ê½±í
-shippingÔË·Ñ±í
-storeÉÌ»§±í
-storecart¹ºÎï³µ±í
-syscofigÏµÍ³ÅäÖÃ±í
-transport¿ìµİÄ£°å
-userÓÃ»§±í
-user_role½ÇÉ«±í
-user_friendºÃÓÑ±í
-accessoryÍ¼Æ¬±í
-activity»î¶¯±í
-activity_goods²Î¼Ó»î¶¯ÉÌÆ·±í
-addressµØÖ·±í
-advert¹ã¸æ±í
-albumÏà²á±í
-articleÏûÏ¢±í
-bargainÌØ¼Û±í
-couponÓÅ»İÈ¯±í
-evaluateÆÀ¼Û±í
-exprerss_company¿ìµİ¹«Ë¾±í
-favoritÊÕ²Ø±í
-goodsspecificationÉÌÆ·ÑÕÉ«³ßÂë±í
-goodsspecpropertyÉÌÆ·ÑÕÉ«³ßÂë±í
-intergral_goods»ı·ÖÉÌÆ·±í
-messsage¹ÜÀíÔ±Í¨Öª±í
+goodså•†å“è¡¨
+goodsclasså•†å“åˆ†ç±»è¡¨
+goodscartå•†å“å±æ€§è¡¨
+group å›¢è´­åç§°è¡¨
+orderformè®¢å•è¡¨
+order_logè®¢å•æ—¥å¿—è¡¨
+paymentæ”¯ä»˜æ–¹å¼è¡¨
+shippingè¿è´¹è¡¨
+storeå•†æˆ·è¡¨
+storecartè´­ç‰©è½¦è¡¨
+syscofigç³»ç»Ÿé…ç½®è¡¨
+transportå¿«é€’æ¨¡æ¿
+userç”¨æˆ·è¡¨
+user_roleè§’è‰²è¡¨
+user_friendå¥½å‹è¡¨
+accessoryå›¾ç‰‡è¡¨
+activityæ´»åŠ¨è¡¨
+activity_goodså‚åŠ æ´»åŠ¨å•†å“è¡¨
+addressåœ°å€è¡¨
+advertå¹¿å‘Šè¡¨
+albumç›¸å†Œè¡¨
+articleæ¶ˆæ¯è¡¨
+bargainç‰¹ä»·è¡¨
+couponä¼˜æƒ åˆ¸è¡¨
+evaluateè¯„ä»·è¡¨
+exprerss_companyå¿«é€’å…¬å¸è¡¨
+favoritæ”¶è—è¡¨
+goodsspecificationå•†å“é¢œè‰²å°ºç è¡¨
+goodsspecpropertyå•†å“é¢œè‰²å°ºç è¡¨
+intergral_goodsç§¯åˆ†å•†å“è¡¨
+messsageç®¡ç†å‘˜é€šçŸ¥è¡¨
 
 
 
-Íø¸ñĞÅÏ¢»¯¹ÜÀíÏµÍ³£¬Êı¾İ¿â£¬±í¡ª¡ª±íÃû³Æ£º
-1¡¢	account  »§¿Ú
-2¡¢	area	µØÇø	
-3¡¢	area_code		µØÇø
-4¡¢	attendance	Íø¸ñÔ±´ò¿¨µÄµØµã
-5¡¢	block	Â¥¶°
-6¡¢	blog	ÈÕÖ¾
-7¡¢	company	¹«Ë¾
-8¡¢	company_nature	¹«Ë¾ĞÔÖÊ
-9¡¢	company_scale	¹«Ë¾¹æÄ£
-10¡¢	company_trade	¹«Ë¾¾­Óª·¶Î§
-11¡¢	court		Ğ¡Çø
-12¡¢	culture_level	ÎÄ»¯²ã´Î
-13¡¢	event	ÊÂ¼ş
-14¡¢	event_level	ÊÂ¼ş¼¶±ğ
-15¡¢	event_log	ÊÂ¼şÈÕÖ¾
-16¡¢	event_solve_status	ÊÂ¼ş´¦Àí½á¹û
-17¡¢	event_source_type	ÊÂ¼şÀ´Ô´·½Ê½
-18¡¢	event_type	ÊÂ¼şµÄÀà±ğ
-19¡¢	facilities	¹«¹²ÉèÊ©
-20¡¢	facilities_type	¹«¹²ÉèÊ©Àà±ğ
-21¡¢	flow	Á÷¶¯ÈË¿Ú
-22¡¢	flow_type	Á÷¶¯ÈË¿ÚµÄÀàĞÍ£¬£¨Á÷ÈëorÁ÷³ö£©
-23¡¢	grid		Íø¸ñ
-24¡¢	grid_post	Íø¸ñÈËÔ±µÄÖ°Î»
-25¡¢	grid_staff	Íø¸ñÔ±
-26¡¢	holder_relation	Óë»§Ö÷µÄ¹ØÏµ
-27¡¢	house		·¿Îİ
-28¡¢	house_status		·¿ÎİµÄÊ¹ÓÃ×´Ì¬£¨×ÔÓÃ£¬³ö×â£¬¿ÕÖÃµÈ£©
-29¡¢	house_type	·¿ÎİµÄ»§ĞÍ
-30¡¢	icon	Í¼±ê
-31¡¢	info	ĞÅÏ¢
-32¡¢	info_type	ĞÅÏ¢ÀàĞÍ£¨°üº¬£ºÏ½Çø½éÉÜ£¬×éÖ¯¼Ü¹¹£©
-33¡¢	leaves	Çë¼Ù
-34¡¢	leaves_type	Çë¼ÙµÄÀàĞÍ£¨»é¼Ù£¬ÊÂ¼Ù£¬²ú¼ÙµÈµÈ£©
-35¡¢	log		ÏµÍ³µÇÂ¼ÈÕÖ¾
-36¡¢	marriage_status	»éÒö×´¿ö
-37¡¢	menu		²Ëµ¥
-38¡¢	menu_per		²Ëµ¥µÄ¹ØÁª±í
-39¡¢	permission		¸ù¾İÈ¨ÏŞ£¬»ñÈ¡µÄ²Ù×÷¹¦ÄÜ£¨°üº¬£ºÌí¼Ó£¬±à¼­£¬É¾³ı£¬²é¿´£¬ÉóºË£©
-40¡¢	politics		ÕşÖÎÃæÃ²
-41¡¢	pop_attr		ÈË¿ÚÓëÊôĞÔµÄ¹ØÁª±í
-42¡¢	pop_nation	Ãñ×å
-43¡¢	popattr	ÈËÎïÊôĞÔ£¨ÍÅÔ±£¬µ³Ô±£¬ÎŞµ³ÈËÊ¿£¬ÍËÎé¾üÈËµÈµÈ£©
-44¡¢	population		ÈË¿ÚÖ÷±í
-45¡¢	road		µÀÂ·
-46¡¢	road_grade	µÀÂ·¼¶±ğ£¨Ö÷¸ÉµÀ£¬´Î¸ÉµÀµÈ£©
-47¡¢	role	½ÇÉ«È¨ÏŞ
-48¡¢	role_per		½ÇÉ«µÄ¹ØÁª¹ØÏµ±í
-49¡¢	store		ÉÌµê
-50¡¢	unit		Â¥¶°µÄµ¥Ôª±í
-51¡¢	user		ÓÃ»§Ö÷±í
-52¡¢	user_staff	ÓÃ»§ºÍÍø¸ñÔ±µÄ¹ØÁª¹ØÏµ±í
-53¡¢	party_member	µ³Ô±ĞÅÏ¢±í
-54¡¢	key_people	·şÎñ¶ÔÏó
-55¡¢	sys_dict	Êı¾İ×Öµä
-56¡¢	w_interview	×ß·ÃÇé¿ö
-
+ç½‘æ ¼ä¿¡æ¯åŒ–ç®¡ç†ç³»ç»Ÿï¼Œæ•°æ®åº“ï¼Œè¡¨â€”â€”è¡¨åç§°ï¼š
+1ã€	account  æˆ·å£
+2ã€	area	åœ°åŒº	
+3ã€	area_code		åœ°åŒº
+4ã€	attendance	ç½‘æ ¼å‘˜æ‰“å¡çš„åœ°ç‚¹
+5ã€	block	æ¥¼æ ‹
+6ã€	blog	æ—¥å¿—
+7ã€	company	å…¬å¸
+8ã€	company_nature	å…¬å¸æ€§è´¨
+9ã€	company_scale	å…¬å¸è§„æ¨¡
+10ã€	company_trade	å…¬å¸ç»è¥èŒƒå›´
+11ã€	court		å°åŒº
+12ã€	culture_level	æ–‡åŒ–å±‚æ¬¡
+13ã€	event	äº‹ä»¶
+14ã€	event_level	äº‹ä»¶çº§åˆ«
+15ã€	event_log	äº‹ä»¶æ—¥å¿—
+16ã€	event_solve_status	äº‹ä»¶å¤„ç†ç»“æœ
+17ã€	event_source_type	äº‹ä»¶æ¥æºæ–¹å¼
+18ã€	event_type	äº‹ä»¶çš„ç±»åˆ«
+19ã€	facilities	å…¬å…±è®¾æ–½
+20ã€	facilities_type	å…¬å…±è®¾æ–½ç±»åˆ«
+21ã€	flow	æµåŠ¨äººå£
+22ã€	flow_type	æµåŠ¨äººå£çš„ç±»å‹ï¼Œï¼ˆæµå…¥oræµå‡ºï¼‰
+23ã€	grid		ç½‘æ ¼
+24ã€	grid_post	ç½‘æ ¼äººå‘˜çš„èŒä½
+25ã€	grid_staff	ç½‘æ ¼å‘˜
+26ã€	holder_relation	ä¸æˆ·ä¸»çš„å…³ç³»
+27ã€	house		æˆ¿å±‹
+28ã€	house_status		æˆ¿å±‹çš„ä½¿ç”¨çŠ¶æ€ï¼ˆè‡ªç”¨ï¼Œå‡ºç§Ÿï¼Œç©ºç½®ç­‰ï¼‰
+29ã€	house_type	æˆ¿å±‹çš„æˆ·å‹
+30ã€	icon	å›¾æ ‡
+31ã€	info	ä¿¡æ¯
+32ã€	info_type	ä¿¡æ¯ç±»å‹ï¼ˆåŒ…å«ï¼šè¾–åŒºä»‹ç»ï¼Œç»„ç»‡æ¶æ„ï¼‰
+33ã€	leaves	è¯·å‡
+34ã€	leaves_type	è¯·å‡çš„ç±»å‹ï¼ˆå©šå‡ï¼Œäº‹å‡ï¼Œäº§å‡ç­‰ç­‰ï¼‰
+35ã€	log		ç³»ç»Ÿç™»å½•æ—¥å¿—
+36ã€	marriage_status	å©šå§»çŠ¶å†µ
+37ã€	menu		èœå•
+38ã€	menu_per		èœå•çš„å…³è”è¡¨
+39ã€	permission		æ ¹æ®æƒé™ï¼Œè·å–çš„æ“ä½œåŠŸèƒ½ï¼ˆåŒ…å«ï¼šæ·»åŠ ï¼Œç¼–è¾‘ï¼Œåˆ é™¤ï¼ŒæŸ¥çœ‹ï¼Œå®¡æ ¸ï¼‰
+40ã€	politics		æ”¿æ²»é¢è²Œ
+41ã€	pop_attr		äººå£ä¸å±æ€§çš„å…³è”è¡¨
+42ã€	pop_nation	æ°‘æ—
+43ã€	popattr	äººç‰©å±æ€§ï¼ˆå›¢å‘˜ï¼Œå…šå‘˜ï¼Œæ— å…šäººå£«ï¼Œé€€ä¼å†›äººç­‰ç­‰ï¼‰
+44ã€	population		äººå£ä¸»è¡¨
+45ã€	road		é“è·¯
+46ã€	road_grade	é“è·¯çº§åˆ«ï¼ˆä¸»å¹²é“ï¼Œæ¬¡å¹²é“ç­‰ï¼‰
+47ã€	role	è§’è‰²æƒé™
+48ã€	role_per		è§’è‰²çš„å…³è”å…³ç³»è¡¨
+49ã€	store		å•†åº—
+50ã€	unit		æ¥¼æ ‹çš„å•å…ƒè¡¨
+51ã€	user		ç”¨æˆ·ä¸»è¡¨
+52ã€	user_staff	ç”¨æˆ·å’Œç½‘æ ¼å‘˜çš„å…³è”å…³ç³»è¡¨
+53ã€	party_member	å…šå‘˜ä¿¡æ¯è¡¨
+54ã€	key_people	æœåŠ¡å¯¹è±¡
+55ã€	sys_dict	æ•°æ®å­—å…¸
+56ã€	w_interview	èµ°è®¿æƒ…å†µ

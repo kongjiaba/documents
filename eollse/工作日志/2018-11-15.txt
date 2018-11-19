@@ -1,14 +1,14 @@
 2018-11-15
-安装jdk
-打开Telnet
-安装MySQL
-安装navicat
-安装eclipse
-配置Tomcat
-安装SVN
+瀹夎jdk
+鎵撳紑Telnet
+瀹夎MySQL
+瀹夎navicat
+瀹夎eclipse
+閰嶇疆Tomcat
+瀹夎SVN
 import grid project
 
-svn：wj
+svn锛歸j
 	wj123
 
 2018-11-16

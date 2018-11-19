@@ -1,3 +1,3 @@
-eclipseÊ¹ÓÃ¼ÇÂ¼£º
-È«¾ÖËÑË÷£ºctrl+h
-´úÂë¿é×¢ÊÍ£ºctrl+shift+/  ½â³ı£ºctrl+shift+\
+eclipseä½¿ç”¨è®°å½•ï¼š
+å…¨å±€æœç´¢ï¼šctrl+h
+ä»£ç å—æ³¨é‡Šï¼šctrl+shift+/  è§£é™¤ï¼šctrl+shift+\
